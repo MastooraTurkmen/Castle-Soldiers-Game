@@ -33,6 +33,8 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 ````
 
+------
+
 ## Languages and Tools are used 🗣️🔧
 
 1. **Languages** 🗣️
@@ -48,3 +50,5 @@ Head over to https://vitejs.dev/ to learn more about using vite
     + [Figma](https://github.com/topics/figma)
     + [VSCode](https://github.com/topics/vscode)
     + [Netlify](https://github.com/topics/netlify)
+
+------
