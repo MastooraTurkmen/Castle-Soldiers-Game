@@ -45,3 +45,4 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 2. **Tools** 🔧
     + [Chrome](https://github.com/topics/chrome)
+    + [Figma](https://github.com/topics/figma)
