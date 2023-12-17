@@ -52,3 +52,6 @@ Head over to https://vitejs.dev/ to learn more about using vite
     + [Netlify](https://github.com/topics/netlify)
 
 ------
+
+# React + Vite
+
