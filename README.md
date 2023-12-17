@@ -32,3 +32,5 @@ Head over to https://vitejs.dev/ to learn more about using vite
 # Clone this repository
 
 ````
+
+## Languages and Tools are used 🗣️🔧
