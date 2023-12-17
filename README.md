@@ -6,16 +6,22 @@ Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complai
 
 Quick start:
 
-```
+````
 $ npm install
 $ npm run dev
 $ npm start
 ````
 
-```
+````
 $ pnpm install
 $ pnpm run dev
 $ pnpm start
+````
+
+````
+$ yarn install
+$ yarn run dev
+$ yarn start
 ````
 
 Head over to https://vitejs.dev/ to learn more about using vite
