@@ -2,7 +2,7 @@
 
 A very simple caslte soldiers game war. Just Moving there and over there.😅😂
 
-## Screenshots
+## Screenshots 📸
 
 ![The Castle Game Screenshot](./images/image.png)
 
