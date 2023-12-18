@@ -12,7 +12,7 @@ export default [
 		}
 	},{
 		id: nanoid(),
-		currentImage: "./images/enemy2A.png",
+		currentImage: "https://i.postimg.cc/8cpM8DPn/enemy2A.png",
 		altImage: "https://i.postimg.cc/SKYGVyJ6/enemy2B.png",
 		orientation: "right",
 		position: {
