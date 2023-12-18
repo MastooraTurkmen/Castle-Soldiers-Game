@@ -3,7 +3,7 @@
 
 ## Screenshots
 
-![Alt text](./images/image.png)
+![The Castle Game Screenshot](./images/image.png)
 
 ![Alt text](./images/image-1.png)
 
