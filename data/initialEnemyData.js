@@ -30,4 +30,3 @@ export default [
 		}
 	},
 ]
-Castle Soldiers Game
