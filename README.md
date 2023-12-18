@@ -44,6 +44,7 @@ Head over to https://vitejs.dev/ to learn more about using vite
 $ git clone https://github.com/MastooraTurkmen/Castle-Soldiers-Game.git
 
 # Go inside the repository
+$ cd Castle-Soldiers-Game
 ````
 
 ------
