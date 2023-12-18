@@ -69,7 +69,7 @@ Head over to https://vitejs.dev/ to learn more about using vite
 4. From there select **_Deploy with Github_**.
    
 5. Then write your project name and select it.
-6. After selecting here you can see that the project **_Review configuration for Ultimate-tea_** and then select the **_Deploy Ultimate-tea_** Button.
+6. After selecting here you can see that the project **_Review configuration for Castle-Soldiers-Game_** and then select the **_Deploy Castle-Soldiers-Game_** Button.
   ![Alt text](image.png)
 7. Now your project is Live.
 
