@@ -5,7 +5,7 @@
 
 ![Alt text](./images/image.png)
 
-![Alt text](image-1.png)
+![Alt text](./images/image-1.png)
 
 
 ## Before you Begin 🛠 🔨
