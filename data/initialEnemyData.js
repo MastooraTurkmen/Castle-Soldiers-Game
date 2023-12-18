@@ -3,7 +3,7 @@ import { nanoid } from "nanoid"
 export default [
 	{
 		id: nanoid(),
-		currentImage: "./images/enemy1A.png",
+		currentImage: "https://i.postimg.cc/gJk2m08R/enemy1A.png",
 		altImage: "https://i.postimg.cc/JzfXrjzX/enemy1B.png",
 		orientation: "left",
 		position: {
