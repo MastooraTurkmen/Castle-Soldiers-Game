@@ -4,7 +4,7 @@ export default [
 	{
 		id: nanoid(),
 		currentImage: "./images/enemy1A.png",
-		altImage: "./images/enemy1B.png",
+		altImage: "https://i.postimg.cc/JzfXrjzX/enemy1B.png",
 		orientation: "left",
 		position: {
 			top: 210,
