@@ -5,7 +5,7 @@
 
 ![The Castle Game Screenshot](./images/image.png)
 
-![Alt text](./images/image-1.png)
+![The Castle Game Screenshot](./images/image-1.png)
 
 
 ## Before you Begin 🛠 🔨
