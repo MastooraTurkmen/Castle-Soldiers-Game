@@ -72,7 +72,7 @@ Head over to https://vitejs.dev/ to learn more about using vite
    ![Alt text](./images/netlify-1.png)
 5. Then write your project name and select it.
 6. After selecting here you can see that the project **_Review configuration for Castle-Soldiers-Game_** and then select the **_Deploy Castle-Soldiers-Game_** Button.
-  ![Alt text](image.png)
+  ![Alt text](./images/netlify.png)
   ![Alt text](image-2.png)
 7. Now your project is Live.
 
