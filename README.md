@@ -67,7 +67,7 @@ Head over to https://vitejs.dev/ to learn more about using vite
 1. How to deploy our project to the Netlify site?
 2. I use [Netlify App](https://app.netlify.com/) for deploying my projects.
 4. From there select **_Deploy with Github_**.
-   
+   ![Alt text](image-1.png)
 5. Then write your project name and select it.
 6. After selecting here you can see that the project **_Review configuration for Castle-Soldiers-Game_** and then select the **_Deploy Castle-Soldiers-Game_** Button.
   ![Alt text](image.png)
