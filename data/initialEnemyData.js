@@ -22,7 +22,7 @@ export default [
 	},{
 		id: nanoid(),
 		currentImage: "./images/enemy3A.png",
-		altImage: "./images/enemy3B.png",
+		altImage: "https://i.postimg.cc/ZR12j7bR/enemy3B.png",
 		orientation: "right",
 		position: {
 			top: 165,
