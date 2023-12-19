@@ -11,6 +11,8 @@ https://castle-soldiers-game.netlify.app/
 ![The Castle Game Screenshot](./screenshots/screenshot-1.png)
 
 
+--------
+
 ## Before you Begin 🛠 🔨
 
 Quick start:
