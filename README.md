@@ -8,7 +8,7 @@ https://castle-soldiers-game.netlify.app/
 
 ![The Castle Game Screenshot](./screenshots/screenshot.png)
 
-![The Castle Game Screenshot](./images/image-1.png)
+![The Castle Game Screenshot](./screenshots/screenshot-1.png)
 
 
 ## Before you Begin 🛠 🔨
