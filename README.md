@@ -183,7 +183,16 @@ export default function App() {
     runGame(gameRunning, setEnemiesData)
 	const enemies = enemiesData.map(enemy => <Enemy key={enemy.id} {...enemy} /> )
 	
-	
+	return (
+		<div className="wrapper">
+			<div className="meadow-container">
+				<div className="castle-container">
+					{enemies}
+				</div>
+			</div>
+			<Button stateProps={{ gameRunning, setGameRunning }} />
+		</div>
+	)
 }
 
 
