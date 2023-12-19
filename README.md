@@ -311,7 +311,13 @@ export default function runGame(gameRunning, setEnemiesData) {
 							nextAltImage = enemy.currentImage
 						}
 
-						
+						return {
+							...enemy,
+							orientation: nextOrientation,
+							currentImage: nextCurrentImage,
+							altImage: nextAltImage,
+							position: { ...enemy.position, left: nextPosition },
+						}
 					})
 				})
 			}, 20)
