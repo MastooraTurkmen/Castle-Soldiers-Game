@@ -127,6 +127,8 @@ so I used the ***"PostImages"*** https://postimages.org/
 
 # Cods that are used
 
+## Data Js
+
 ```
 import { nanoid } from "nanoid"
 
@@ -149,9 +151,20 @@ export default [
 			top: 105,
 			left: 187,
 		}
-	},
+	},{
+		id: nanoid(),
+		currentImage: "https://i.postimg.cc/d3j6d4Dg/enemy3A.png",
+		altImage: "https://i.postimg.cc/ZR12j7bR/enemy3B.png",
+		orientation: "right",
+		position: {
+			top: 165,
+			left: 165,
+		}
 	},
 ]
+
+
+
 
 
 ```
