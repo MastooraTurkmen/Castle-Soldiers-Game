@@ -140,7 +140,16 @@ export default [
 			top: 210,
 			left: 157,
 		}
-	}
+	},{
+		id: nanoid(),
+		currentImage: "https://i.postimg.cc/8cpM8DPn/enemy2A.png",
+		altImage: "https://i.postimg.cc/SKYGVyJ6/enemy2B.png",
+		orientation: "right",
+		position: {
+			top: 105,
+			left: 187,
+		}
+	},
 	},
 ]
 
