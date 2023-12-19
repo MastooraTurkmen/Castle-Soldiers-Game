@@ -92,8 +92,7 @@ Currently, two official plugins are available:
 -----
 
 
-
-
+## Updating the images to the direct links
 
 
 
