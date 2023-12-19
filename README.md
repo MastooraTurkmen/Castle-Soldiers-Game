@@ -6,7 +6,7 @@ https://castle-soldiers-game.netlify.app/
 
 ## Screenshots 📸
 
-![The Castle Game Screenshot](./images/image.png)
+![The Castle Game Screenshot](./screenshots/screenshot.png)
 
 ![The Castle Game Screenshot](./images/image-1.png)
 
