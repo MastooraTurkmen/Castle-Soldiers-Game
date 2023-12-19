@@ -212,5 +212,5 @@ ReactDOM.createRoot(document.getElementById("root")).render(<App />)
 
 ## Components
 
-1. Button.jsx
-2. Enemy.jsx
+***1. Button.jsx***
+***2. Enemy.jsx***
