@@ -239,5 +239,12 @@ export default function Button({ stateProps }) {
 
 ```
 
+import React from "react"
+
+export default function Enemy(props) {
+	return (
+		
+	)
+}
 
 ```
