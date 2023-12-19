@@ -103,7 +103,7 @@ Currently, two official plugins are available:
 -----
 
 
-## Updating the images to the direct links
+## Updating the images to the direct links 🔗 🖇
 
 I updated image data to direct links because when I uploaded to Netlify, my images didn't show,
 so I used the ***"PostImages"*** https://postimages.org/
