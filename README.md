@@ -1,6 +1,6 @@
 # Castle Soldiers Game ⛏ ⚔️ 🛡 🤺
 
-> A very simple caslte soldiers game war. Just Moving there and over there.😅😂
+> A very simple castle soldiers game war. Just Moving there and over there.😅😂
 
 https://castle-soldiers-game.netlify.app/
 
