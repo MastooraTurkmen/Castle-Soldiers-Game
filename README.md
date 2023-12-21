@@ -261,7 +261,7 @@ export default function Enemy(props) {
 
 ## RunGame JS
 
-```
+```js
 import React from "react"
 
 export default function runGame(gameRunning, setEnemiesData) {
