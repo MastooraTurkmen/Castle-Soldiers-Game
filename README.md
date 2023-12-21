@@ -369,4 +369,17 @@ export default function runGame(gameRunning, setEnemiesData) {
      position: relative;
 }
 
+.enemy {
+     position: absolute;
+     filter: contrast(2) brightness(1.2) 
+}
+.enemy img {
+     width: 45px;
+}
+
+.button-container {
+     display: flex;
+     justify-content: center;
+     margin-top: 20px;
+}
 ```
