@@ -237,7 +237,7 @@ export default function Button({ stateProps }) {
 
 ### Enemy JSX
 
-```
+```jsx
 
 import React from "react"
 
