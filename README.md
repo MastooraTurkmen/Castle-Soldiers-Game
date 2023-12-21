@@ -430,4 +430,16 @@ button::before {
                  -webkit-transform 150ms cubic-bezier(0, 0, 0.58, 1), 
                  -webkit-box-shadow 150ms cubic-bezier(0, 0, 0.58, 1);
 }
+
+button:hover {
+     background: #f9d6e2;
+}
+
+button::before {
+     -webkit-box-shadow: 0 0 0 2px #b18597, 0 0.5em 0 0 #ffe3e2;
+     box-shadow: 0 0 0 2px #b18597, 0 0.5em 0 0 #333333;
+     -webkit-transform: translate3d(0, 0.5em, -1em);
+     transform: translate3d(0, 0.5em, -1em);
+}
+
 ```
