@@ -129,7 +129,7 @@ so I used the ***"PostImages"*** https://postimages.org/
 
 ## Data Js
 
-```
+```js
 import { nanoid } from "nanoid"
 
 export default [
