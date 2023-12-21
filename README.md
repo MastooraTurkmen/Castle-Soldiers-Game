@@ -167,7 +167,7 @@ export default [
 
 ## App JSX
 
-```js
+```jsx
 
 import React from "react"
 import Enemy from "./components/Enemy"
