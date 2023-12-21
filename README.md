@@ -326,5 +326,6 @@ export default function runGame(gameRunning, setEnemiesData) {
   }, [gameRunning])
 }
 
-
 ```
+
+## Style CSS
