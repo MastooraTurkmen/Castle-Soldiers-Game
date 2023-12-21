@@ -358,4 +358,15 @@ export default function runGame(gameRunning, setEnemiesData) {
      justify-content: center;
      align-items: center;
 }
+
+.castle-container {
+     background-image: url(./images/castle.png);
+     width: 375px;
+     height: 375px;
+     margin-top: 15px;
+     background-size: contain;
+     background-repeat: no-repeat;
+     position: relative;
+}
+
 ```
