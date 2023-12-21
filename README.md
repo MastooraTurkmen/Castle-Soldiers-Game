@@ -218,7 +218,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(<App />)
 
 ### Button JSX
 
-```
+```jsx
 import React from "react"
 
 export default function Button({ stateProps }) {
