@@ -442,4 +442,20 @@ button::before {
      transform: translate3d(0, 0.5em, -1em);
 }
 
+button:active {
+     background: #f9d6e2;
+     -webkit-transform: translate(0em, 0.75em);
+     transform: translate(0em, 0.75em);
+}
+
+button:active::before {
+     -webkit-box-shadow: 0 0 0 2px #b18597, 0 0 #ffe3e2;
+     box-shadow: 0 0 0 2px #b18597, 0 0 #ffe3e2;
+     -webkit-transform: translate3d(0, 0, -1em);
+     transform: translate3d(0, 0, -1em);
+}
+
+button:focus:not(:focus-visible) {
+     outline: 0;
+}
 ```
