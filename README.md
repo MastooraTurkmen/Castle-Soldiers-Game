@@ -1,6 +1,6 @@
 # Castle Soldiers Game ⛏ ⚔️ 🛡 🤺
 
-> A very simple caslte soldiers game war. Just Moving there and over there.😅😂
+> A very simple castle soldiers game war. Just Moving there and over there.😅😂
 
 https://castle-soldiers-game.netlify.app/
 
@@ -134,14 +134,14 @@ import { nanoid } from "nanoid"
 
 export default [
 	{
-		id: nanoid(),
-		currentImage: "https://i.postimg.cc/gJk2m08R/enemy1A.png",
-		altImage: "https://i.postimg.cc/JzfXrjzX/enemy1B.png",
-		orientation: "left",
-		position: {
-			top: 210,
-			left: 157,
-		}
+	   id: nanoid(),
+           currentImage: "https://i.postimg.cc/gJk2m08R/enemy1A.png",
+	   altImage: "https://i.postimg.cc/JzfXrjzX/enemy1B.png",
+	   orientation: "left",
+	   position: {
+		top: 210,
+		left: 157,
+	}
 	},{
 		id: nanoid(),
 		currentImage: "https://i.postimg.cc/8cpM8DPn/enemy2A.png",
