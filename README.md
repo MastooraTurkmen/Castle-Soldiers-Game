@@ -382,4 +382,31 @@ export default function runGame(gameRunning, setEnemiesData) {
      justify-content: center;
      margin-top: 20px;
 }
+
+button {
+     width: 112px;
+     position: relative;
+     display: inline-block;
+     cursor: pointer;
+     outline: none;
+     border: 0;
+     vertical-align: middle;
+     text-decoration: none;
+     font-family: inherit;
+     font-size: 16px;
+     font-weight: 700;
+     color: #382b22;
+     padding: .75em .5em;
+     background: #f9c4d2;
+     border: 2px solid #b18597;
+     border-radius: 0.75em;
+     -webkit-transform-style: preserve-3d;
+     transform-style: preserve-3d;
+     -webkit-transition: background 150ms cubic-bezier(0, 0, 0.58, 1), 
+                         -webkit-transform 150ms cubic-bezier(0, 0, 0.58, 1);
+     transition: transform 150ms cubic-bezier(0, 0, 0.58, 1), 
+                 background 150ms cubic-bezier(0, 0, 0.58, 1), 
+                 -webkit-transform 150ms cubic-bezier(0, 0, 0.58, 1);
+     font-family: 'New Rocker', cursive;
+}
 ```
