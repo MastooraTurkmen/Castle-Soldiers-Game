@@ -345,4 +345,17 @@ export default function runGame(gameRunning, setEnemiesData) {
      align-items: center;
      background: #030301;
 }
+
+.meadow-container {
+     margin-left: -13px;
+     border-radius: 15px;
+     background: darkgreen;
+     background-image: url(./images/meadow.png);
+     background-size: 30%;
+     width: 390px;
+     height: 390px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
 ```
