@@ -333,4 +333,16 @@ export default function runGame(gameRunning, setEnemiesData) {
 
 ```css
 
+* {
+     box-sizing: border-box;
+}
+
+ body {
+     width: 100vw;
+     height: 100vh;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background: #030301;
+}
 ```
