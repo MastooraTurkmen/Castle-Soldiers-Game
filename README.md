@@ -129,19 +129,19 @@ so I used the ***"PostImages"*** https://postimages.org/
 
 ## Data Js
 
-```
+```js
 import { nanoid } from "nanoid"
 
 export default [
 	{
-		id: nanoid(),
-		currentImage: "https://i.postimg.cc/gJk2m08R/enemy1A.png",
-		altImage: "https://i.postimg.cc/JzfXrjzX/enemy1B.png",
-		orientation: "left",
-		position: {
-			top: 210,
-			left: 157,
-		}
+	   id: nanoid(),
+           currentImage: "https://i.postimg.cc/gJk2m08R/enemy1A.png",
+	   altImage: "https://i.postimg.cc/JzfXrjzX/enemy1B.png",
+	   orientation: "left",
+	   position: {
+		top: 210,
+		left: 157,
+	}
 	},{
 		id: nanoid(),
 		currentImage: "https://i.postimg.cc/8cpM8DPn/enemy2A.png",
